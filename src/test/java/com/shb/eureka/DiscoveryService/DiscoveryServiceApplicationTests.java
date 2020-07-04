@@ -1,4 +1,4 @@
-package com.shoheb.eureka.DiscoveryService;
+package com.shb.eureka.DiscoveryService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
